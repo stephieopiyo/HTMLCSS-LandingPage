@@ -120,6 +120,8 @@ section {
 .profile-pic {
     width: 60px;
     height:60px;
+}
+img .profile-pic {
     border-radius: 100px;
     max-width: 100%;
 }
