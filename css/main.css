@@ -38,15 +38,13 @@ section {
     padding: 6px 12px;
     border-radius: 3px;
     line-height: 1.4;
-
-}
-.btn-default, .btn-primary { 
-    color:#ffffff;
 }
 .btn-default {
+    color:#ffffff;
     background-color: #faa541;
 }
 .btn-primary {
+    color:#ffffff;
     background-color: #364147;
 }
 .form-control {
